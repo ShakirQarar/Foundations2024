@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My second assignment</title>
+
+  </head>
+
+  <body>
+    <h1>I missed last class</h1>
+    <p> I am really sorry for missing the last class. I was on my way to class but had to go back home due to an emergency.</p>
+
+    <ul>1</ul>
+    <ul>2</ul>
+    <ul>3</ul>
+    <nav>
+        <li><a href="https://www.youtube.com/"></a></li>
+    </nav>
+  </body>
+</html>

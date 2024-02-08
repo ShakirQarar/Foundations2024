@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=devive-width, initial-scale=1.5">
+    <title>My First Assigment</title>
+  </head>
+  <body>
+    <main>
+      <h1>I can make web pages</h1>
+      <p> I am excited about it</p>
+    </main>
+    <footer>&copy; 2024</footer>
+  </body>
+</html>             

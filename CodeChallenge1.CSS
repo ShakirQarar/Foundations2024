@@ -1,0 +1,25 @@
+.Paragraph {
+    color: red;
+    font-size: 13px;
+    font-style: italic;
+}
+.headerone {
+    color: red;
+}
+.Footerone {
+    list-style-type: none;
+    
+}
+.tiger-Siberian {
+    border-radius: 20px;
+    cursor: pointer;
+    
+}
+
+.tiger-Siberian:active {
+    opacity: 0.8;
+
+}
+.tiger-Siberian:hover {
+    background-color: bisque;
+}
